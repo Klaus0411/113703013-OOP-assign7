@@ -13,10 +13,10 @@
 # Others
 -Workflow chart:
 
-![pics]
+![pics](images/Workflow.jpg)
 -UML Class diagram:
 
-![pics]
+![pics](images/UML.png)
 -Inspired by Undyne's fight in the video game Undertale.
 
 ![pics](images/inspired.png)
