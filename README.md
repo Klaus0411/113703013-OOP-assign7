@@ -17,6 +17,7 @@
 -UML Class diagram:
 
 ![pics](images/UML.png)
+
 -Inspired by Undyne's fight in the video game Undertale.
 
 ![pics](images/inspired.png)
