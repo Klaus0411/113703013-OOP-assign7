@@ -10,10 +10,13 @@
 
 -Win/Lose conditions: Survive 30 seconds to win the game before run out of HP. 
 
-#Others
+# Others
 -Workflow chart:
+
 ![pics]
 -UML Class diagram:
+
 ![pics]
 -Inspired by Undyne's fight in the video game Undertale.
+
 ![pics](images/inspired.png)
