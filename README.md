@@ -1,2 +1,3 @@
 # 113703013-OOP-assign7
-assign7 for OOP 2025 to hand in
+-Inspired by Undyne's fight in the video game Undertale.
+![pic](images/inspired.png)
